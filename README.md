@@ -16,7 +16,6 @@
 <a href="https://codepen.io/https://codepen.io/gregori-schultz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gregori-schultz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gregori-schultz-22805720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gregori-schultz-22805720b/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gregorischultz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gregorischultz" height="30" width="40" /></a>
-<a href="https://instagram.com/_schultz_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_schultz_7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
