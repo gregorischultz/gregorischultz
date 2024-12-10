@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregori Schultz</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [Diony's Pizz](https://github.com/gregorischultz/dyonis-pizza)
+- 🔭 I’m currently working on [Portfolio de L'architecte](https://github.com/gregorischultz/portifolio_architect)
 
 - 🌱 I’m currently learning **TypeScript, Next.JS, TailwindCSS**
 
